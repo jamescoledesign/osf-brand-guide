@@ -2,7 +2,7 @@ To run locally use `npm run catalog-start`
 
 # Brand Guide Outline
 
-#### Intro
+### Intro
 
 ### Airship
 - About
