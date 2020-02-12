@@ -8,7 +8,104 @@ const pages = [
     title: "Intro",
     content: pageLoader(() => import("./Pages/Intro.md"))
   },
+
   // Brand Pages
+  {
+    title: "Airship",
+    // Subpages of 'Airship'
+    pages: [
+      {
+        path: '/Pages/Airship/AS-About.md',
+        title: 'About',
+        content: pageLoader(() => import("./Pages/Airship/AS-About.md"))
+      },
+      {
+        path: '/Pages/Airship/AS-Logos.md',
+        title: 'Logos',
+        content: pageLoader(() => import("./Pages/Airship/AS-Logos.md"))
+      },
+      {
+        path: "/Pages/Airship/AS-Colors.md",
+        title: "Colors",
+        content: pageLoader(() => import("./Pages/Airship/AS-Colors.md"))
+      },
+      {
+        path: "/Pages/Airship/AS-Typography.md",
+        title: "Typography",
+        content: pageLoader(() => import("./Pages/Airship/AS-Typography.md"))
+      },
+      {
+        path: "/Pages/Airship/AS-Iconography.md",
+        title: "Iconography",
+        content: pageLoader(() => import("./Pages/Airship/AS-Iconography.md"))
+      }
+    ]
+  },
+
+  {
+    title: "Kata Containers",
+    // Subpages of 'Kata Containers'
+    pages: [
+      {
+        path: '/Pages/KataContainers/KC-About.md',
+        title: 'About',
+        content: pageLoader(() => import("./Pages/KataContainers/KC-About.md"))
+      },
+      {
+        path: '/Pages/KataContainers/KC-Logos.md',
+        title: 'Logos',
+        content: pageLoader(() => import("./Pages/KataContainers/KC-Logos.md"))
+      },
+      {
+        path: "/Pages/KataContainers/KC-Colors.md",
+        title: "Colors",
+        content: pageLoader(() => import("./Pages/KataContainers/KC-Colors.md"))
+      },
+      {
+        path: "/Pages/KataContainers/KC-Typography.md",
+        title: "Typography",
+        content: pageLoader(() => import("./Pages/KataContainers/KC-Typography.md"))
+      },
+      {
+        path: "/Pages/KataContainers/KC-Iconography.md",
+        title: "Iconography",
+        content: pageLoader(() => import("./Pages/KataContainers/KC-Iconography.md"))
+      }
+    ]
+  },
+
+  {
+    title: "OpenStack",
+    // Subpages of 'OpenStack'
+    pages: [
+      {
+        path: '/Pages/OpenStack/OS-About.md',
+        title: 'About',
+        content: pageLoader(() => import("./Pages/OpenStack/OS-About.md"))
+      },
+      {
+        path: '/Pages/OpenStack/OS-Logos.md',
+        title: 'Logos',
+        content: pageLoader(() => import("./Pages/OpenStack/OS-Logos.md"))
+      },
+      {
+        path: "/Pages/OpenStack/OS-Colors.md",
+        title: "Colors",
+        content: pageLoader(() => import("./Pages/OpenStack/OS-Colors.md"))
+      },
+      {
+        path: "/Pages/OpenStack/OS-Typography.md",
+        title: "Typography",
+        content: pageLoader(() => import("./Pages/OpenStack/OS-Typography.md"))
+      },
+      {
+        path: "/Pages/OpenStack/OS-Iconography.md",
+        title: "Iconography",
+        content: pageLoader(() => import("./Pages/OpenStack/OS-Iconography.md"))
+      }
+    ]
+  },
+
   {
     title: "OSF",
     // Subpages of 'OSF'
@@ -45,6 +142,71 @@ const pages = [
       }
     ]
   },
+
+  {
+    title: "StarlingX",
+    // Subpages of 'StarlingX'
+    pages: [
+      {
+        path: '/Pages/StarlingX/SX-About.md',
+        title: 'About',
+        content: pageLoader(() => import("./Pages/StarlingX/SX-About.md"))
+      },
+      {
+        path: '/Pages/StarlingX/SX-Logos.md',
+        title: 'Logos',
+        content: pageLoader(() => import("./Pages/StarlingX/SX-Logos.md"))
+      },
+      {
+        path: "/Pages/StarlingX/SX-Colors.md",
+        title: "Colors",
+        content: pageLoader(() => import("./Pages/StarlingX/SX-Colors.md"))
+      },
+      {
+        path: "/Pages/StarlingX/SX-Typography.md",
+        title: "Typography",
+        content: pageLoader(() => import("./Pages/StarlingX/SX-Typography.md"))
+      },
+      {
+        path: "/Pages/StarlingX/SX-Iconography.md",
+        title: "Iconography",
+        content: pageLoader(() => import("./Pages/StarlingX/SX-Iconography.md"))
+      }
+    ]
+  },
+
+  {
+    title: "Zuul",
+    // Subpages of 'Zuul'
+    pages: [
+      {
+        path: '/Pages/Zuul/ZL-About.md',
+        title: 'About',
+        content: pageLoader(() => import("./Pages/Zuul/ZL-About.md"))
+      },
+      {
+        path: '/Pages/Zuul/ZL-Logos.md',
+        title: 'Logos',
+        content: pageLoader(() => import("./Pages/Zuul/ZL-Logos.md"))
+      },
+      {
+        path: "/Pages/Zuul/ZL-Colors.md",
+        title: "Colors",
+        content: pageLoader(() => import("./Pages/Zuul/ZL-Colors.md"))
+      },
+      {
+        path: "/Pages/Zuul/ZL-Typography.md",
+        title: "Typography",
+        content: pageLoader(() => import("./Pages/Zuul/ZL-Typography.md"))
+      },
+      {
+        path: "/Pages/Zuul/ZL-Iconography.md",
+        title: "Iconography",
+        content: pageLoader(() => import("./Pages/Zuul/ZL-Iconography.md"))
+      }
+    ]
+  },
+
   {
     title: "Events",
     // Subpages of 'Events'
