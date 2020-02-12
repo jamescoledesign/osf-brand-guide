@@ -4,9 +4,9 @@ import { Catalog, pageLoader } from "catalog";
 
 const pages = [
   {
-    path: "/Pages/Intro.md",
+    path: "/",
     title: "Intro",
-    content: pageLoader(() => import("./Pages/Intro.md"))
+    content: pageLoader(() => import("./Intro.md"))
   },
 
   // Brand Pages
