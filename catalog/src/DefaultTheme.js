@@ -17,7 +17,7 @@ export default {
 
   // Used in Menu and PageHeader to make sure the top parts have
   // the same height.
-  pageHeadingHeight: 800,
+  pageHeadingHeight: 200,
 
   // Used for navigation bar
   navBarBackground: "#F2F2F2",
