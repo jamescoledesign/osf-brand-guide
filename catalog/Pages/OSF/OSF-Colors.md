@@ -36,11 +36,11 @@ colors:
 ```download|span-3
 title: Download Print Swatches (.ase)
 subtitle: 864 B
-url: /Assets/Colors/OSF Print Colors.ase
+url: /Assets/Colors/OSF-Print-Colors.ase
 ```
 
 ```download|span-3
 title: Download Web Swatches (.ase)
 subtitle: 400 B
-url: /Assets/Colors/OSF Web Colors.ase
+url: /Assets/Colors/OSF-Web-Colors.ase
 ```
