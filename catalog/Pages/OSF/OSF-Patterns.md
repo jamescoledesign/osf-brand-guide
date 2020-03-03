@@ -75,3 +75,7 @@ title: Download Patterns and Shapes (.eps)
 subtitle: 7.9 MB
 url: /Assets/Patterns/OSF_Patterns_Shapes.eps
 ```
+
+```hint|neutral
+CC 2020 OpenStack Foundation. These patterns are licensed under a [Creative Commons Attribution 3.0 Unported (CC BY 3.0) License](https://creativecommons.org/licenses/by/3.0/). Feel free to remix and share.
+```
