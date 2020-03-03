@@ -4,13 +4,13 @@ The OpenStack Foundation mark was created primarily as a way to distinguish the 
 
 ```image
 light: true
-span: 6
+span: 3
 src: "/Assets/Logos/OSF-Logos/OSF_Logo_RGB_Horiz_Badge.svg"
 ```
 
 ```image
 dark: true
-span: 6
+span: 3
 src: "/Assets/Logos/OSF-Logos/OSF_Logo_RGB_Horiz_Badge_White.svg"
 ```
 
