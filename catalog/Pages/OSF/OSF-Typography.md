@@ -11,6 +11,8 @@ When we need a decorative headline style we use Source Code Pro, but in general 
 }
 ```
 
+[Get Open Sans from Google Fonts](https://fonts.google.com/specimen/Open+Sans)
+
 ##### Open Sans
 
 ```type
@@ -24,3 +26,5 @@ When we need a decorative headline style we use Source Code Pro, but in general 
   ]
 }
 ```
+
+[Get Source Code Pro from Google Fonts](https://fonts.google.com/specimen/Source+Code+Pro)
