@@ -6,7 +6,7 @@ When we need a decorative headline style we use Source Code Pro, but in general 
 {
   "font": "Source Code Pro",
   "headings": [
-    { "label": "H1", "value": 46 }
+    { "label": "Headline", "value": 46 }
   ]
 }
 ```
@@ -19,7 +19,7 @@ When we need a decorative headline style we use Source Code Pro, but in general 
 {
   "font": "Open Sans",
   "headings": [
-    { "label": "H2", "value": 28, "weight": 800, }
+    { "label": "Subhead", "value": 28, "weight": 800, }
   ],
   "paragraphs": [
     { "label": "Body Copy", "value": "14/20.5" }
