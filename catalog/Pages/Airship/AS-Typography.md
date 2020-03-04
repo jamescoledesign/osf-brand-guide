@@ -1,4 +1,4 @@
-We will generally use Roboto for most things Airhip. In cases where Roboto is unavailable, a sans-serif like Helvetica or Arial will suffice. The examples below use different sizes and weights to demonstrate the visual size ratios between headlines and body copy.
+We will generally use [Roboto](https://fonts.google.com/specimen/Roboto) for most things Airhip. In cases where Roboto is unavailable, a sans-serif like Helvetica or Arial will suffice. The examples below use different sizes and weights to demonstrate the visual hierarchy between headlines and body copy.
 
 ##### Roboto
 
